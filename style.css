@@ -1,0 +1,12 @@
+h1{
+    background-color: green;
+    text-align: center;
+}
+button {
+    height: 50px;
+    width: 70px;
+    outline: none;
+    margin: 10px;
+    border: none;
+    border-radius: 2px;
+  }
